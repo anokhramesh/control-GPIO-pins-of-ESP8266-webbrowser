@@ -1,4 +1,6 @@
+
 // enter the ip address 192.168.0.113 on Internet Explores Browser
+// SSID- micropython-794ceb,password-micropythoN
 #include <ESP8266WiFi.h>
 WiFiClient client;
 WiFiServer server(80);
